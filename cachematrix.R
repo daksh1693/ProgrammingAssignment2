@@ -11,7 +11,7 @@
 ## inverse.
 
 
-## This function cretes a list of functions... cached inverse is also stored 
+## This function creates a list of functions... cached inverse is also stored 
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
